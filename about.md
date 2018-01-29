@@ -1,12 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Hi, I'm Jyo!
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm a senior in CAS studying Computer Science and minoring in French and Web Development. 
